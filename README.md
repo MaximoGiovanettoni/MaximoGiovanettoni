@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there 👋 I'm Maximo Giovanettoni
 
-<!--
-**MaximoGiovanettoni/MaximoGiovanettoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Computer Engineering student at the University of Buenos Aires with a strong interest in backend development, distributed systems, and high-performance software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+
+- Backend systems
+- Distributed systems
+- Concurrent programming
+- Client–server architectures
+- Database design
+
+## Technologies I Work With
+
+**Languages**
+
+Rust, Go, Python, Java, C, C++, SQL
+
+**Systems & Concepts**
+
+- Distributed systems
+- TCP networking
+- Concurrency
+- Fault tolerance
+- Client–server architecture
+- REST APIs
+- Relational databases
+
+**Tools**
+
+Git, Linux
+
+## Projects
+
+### Redis-compatible distributed server (Rust)
+Implementation of a Redis-style server with persistence, Pub/Sub messaging and distributed cluster concepts.
+
+### University dining management system
+Full-stack web application supporting authentication and database-backed workflows for university dining services.
+
+### Multiplayer web game
+Interactive web game with real-time gameplay logic and frontend deployment.
+
+## Currently Learning
+
+- Distributed system design
+- Scalable backend architectures
+- High-performance networking
