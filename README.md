@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Maximo Giovanettoni
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MaximoGiovanettoni)](https://git.io/streak-stats)
 
 
 Computer Engineering student at the University of Buenos Aires with a strong interest in backend development, distributed systems, and high-performance software.
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MaximoGiovanettoni)](https://git.io/streak-stats)
 
 ## Technical Interests
 
